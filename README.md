@@ -56,6 +56,8 @@ The pipeline operates as a seamless, automated system, with each stage building 
      - A line chart tracking sentiment trends over time, revealing patterns in public opinion.
      - A bar chart comparing detailed sentiment scores across different sentiment categories, providing a granular view of emotional tone.
    - The visualizations enable stakeholders to explore the data interactively, uncovering insights into Reddit user sentiment with clarity and precision.
+   - ![image](https://github.com/user-attachments/assets/be036e73-2a26-455e-aefb-bac7a6afbf57)
+
 
 ## Scalability Features
 The pipeline incorporates several features to ensure scalability and efficiency as data volumes grow:
