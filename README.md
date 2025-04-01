@@ -23,7 +23,8 @@ The pipeline orchestrates a sequence of AWS services to ingest, process, store, 
 ## Pipeline Flow Diagram
 Below is a diagram illustrating the high-level flow of data through the pipeline, from ingestion to visualization:
 
-![Pipeline Flow Diagram](pipeline_flow_diagram.png)
+![Untitled Diagram drawio (1)](https://github.com/user-attachments/assets/bfa83f73-d45d-458b-a16d-2ccc5c00b612)
+
 
 ## High-Level Workflow
 The pipeline operates as a seamless, automated system, with each stage building on the previous one to transform raw Reddit comments into insightful visualizations. The following steps outline the workflow in detail:
